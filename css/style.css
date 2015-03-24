@@ -1,0 +1,34 @@
+body {
+    font-family: Arial;
+  padding: 10px;
+  max-width: 2000px;
+  margin: 0 auto;
+  background-color:#EBFFEB;
+      
+}
+H1 {
+  text-align:center;
+  color: #660099;
+  background-color:#CC99CC;
+  /*padding: 10px */
+  border-radius: 20px;
+}
+
+H2 {
+  text-align: center;
+  color: #FF0099;
+  }
+.lesson { 
+  background-color:#FF99CC;
+  border-radius: 20px;
+  padding: 10px;
+   
+}
+.concept-title { 
+  font-size: 20px;
+  margin: 5px;
+  color: #330099;
+}
+.italix {
+  font-style: italic;
+}
